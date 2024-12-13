@@ -2,7 +2,7 @@
 
 ### Pedro Jordano
 Estación Biológica de Doñana, CSIC -Sevilla, Spain
-March 22, 2019; December 22, 2021
+March 22, 2019; December 22, 2021, December 11, 2024
 
 ## Introduction
 A network is a representation of multiple links among interconnected elements. Networks are everywhere, simply because we live an interconnected world.
